@@ -65135,7 +65135,7 @@ A.wJ.prototype={
 au(){return new A.Nj(B.k)}}
 A.Nj.prototype={
 aJ(){this.bo()},
-L(a,b){return new A.vw(B.AB,A.b([$.api()],t.tc),A.avw(new A.aae()),"Pakistan TV",A.am1(B.a5),!1,null)}}
+L(a,b){return new A.vw(B.AB,A.b([$.api()],t.tc),A.avw(new A.aae()),"PrimeTube Admin",A.am1(B.a5),!1,null)}}
 A.aae.prototype={
 $1(a){var s=null
 return A.afD(!1,!0,B.CL,s,!0,s,s,s,s,s,s,s,s,s,new A.aad(),s,s,s)},
